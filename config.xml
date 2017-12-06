@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>productpersonalisation</name>
+	<displayName><![CDATA[Product personalisation]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[This module enables you to make a product customizable by customer using rules of admin.]]></description>
+	<author><![CDATA[Norman]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall  Product personalisation module?]]></confirmUninstall>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
